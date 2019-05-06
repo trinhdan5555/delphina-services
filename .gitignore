@@ -1,0 +1,14 @@
+# macos
+.DS_Store
+
+# JetBrains
+build/
+.idea
+
+# node/npm
+node_modules/*
+npm-debug.log
+
+# vs code
+.vscode
+.history/
