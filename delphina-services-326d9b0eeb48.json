@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "delphina-services-239820",
+  "private_key_id": "326d9b0eeb488b8b8ab1a4619615cb4db2fb4cbe",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC+ny6eu9vBVQ4z\n8OI9zmts6gXb/Md+u2MBUQFUrFXwZrj/9SJ26pCgbolaWNdT+giMoNVkL5oys9TS\nXrw66zIgbifFLDMRQtLgMqxwLl9xqntReOcKnYUnnd2nXS8xZjql1SpoKilYfU/p\n1jMpLxbIVFPzh4+AY8UfZrDZ3F87iBkkQ9DAMlj0A44JNmD8sUvAlI6zlAhYzocl\nmNVChd81jn6j/LgLNpTG7lXa5liIxgrC9sokdzyc58ewH0+J+zEbZTaiq+7b9Iji\nWXzkWjlk1SaPRA8fWa0a8uc+nd+EQboR7KK6ZyvvS91m3B+eh7sFfNWR4hcZmGmP\nVVc7DfALAgMBAAECggEAKdEv4ACkJ9hp4jkg2KA07tKz8FuWxBWFlZ9YpGOeArv2\nL6huJBo3GgrFtP0yV6jNQVRzG6RZtm++61t+/YnlGDoyHU4h8dJwAmD7dSynIX9d\nyDS2spx1vogiPPnzRWoAyapmwC0nntL2ufyUgp9i5xWgyRbfAzJf5xCXEWQHvD4x\nIYUOy8OG/dpIQRmrgTN/x5BxMgKdacMQbhA1qg94ZR/Ae8McPZRRCJXsjjnNc8+N\nIZQxrq8iigjqgbT3oQYfYOFJZGUxEBDyXFB5m2oQ4Ww1M0DN6iM/oTw+Ex1j6V0m\nuTVY/90i+BhzyGjnFkrrf8xK0D09d4BVgmNLexz7SQKBgQDdfmWBlr+SN7TIYTXu\n4Sdy+EOFIbqC20XcPMiqwB3c7ANfW2mntW1YAqTytqImOmUud5CNqw5j7b9eAPn6\nuyS2o6z6mt2qrGRG48kYV6nWyKFofe85fJ/Cuvc3qNaft2OPRFtQWQC5QxtjZj+F\nvYCy+G4ZZH5hfSe5NKooHzYMTQKBgQDcUY12n6h3ZvCX1YQKbJwwA5bpy53PRcq5\nqyOKJExLWnl7tNfwLr6z9puYl+Az2CmuGlZiUIwrhAXpnFoRO8faMZ9fRlAecyfe\nwXS9uZ6yyGnTn3FW2z2B814T2HROsM3a6vt2AcdDaSjExe2TLi6C9F0yORrjIN5b\ncPcu7GY5twKBgQC544yZN8VLl8j3qu4yr3AGQ2mXX/lCPXjiH3liJJ5rfQBPlU6U\n2+UKyh1ZPgHUB4pHdz0wSHFpWG0VHciur0VeqvtPz41d4hS+kgmBjoERq4wbQCX3\nnyoNqhA0/FQz8xtxb7MbObcrxLBFudhyC9rpWSo90WNnujwOaa6swZUAuQKBgFj3\n8dliVeSJxER8K4sOGvBksq+M0xhdhaT+kCZ7y/dt/LrQ55aNOeNwhZrUUex9sS8m\nYZXoEwKLmNuikNh+vJDHEyWlPjtdo08X7i2jZIur1NhpfZpmhGsSvP3knesdCLQL\nyin4Q+Bb+eOkTfDuaEfnqC7c0pe/sStZ7eeb/Rf3AoGAGZNAS1E+spRHpil720yW\n5EQSJUoe1AGZETwoZmk4xXJRrD9zsQ0XDM9zU7pgKo38S84rbLyPiW3bZb5tQr+D\nVfoXyBb4yz47iOl7QkGuiQuHCjKkXWBosaKze5P4uw0ekgmHJeQ/JOfLhtup1YRc\nWgAUccP/AdVsKrpBOaFWolY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "andtrinh@delphina-services-239820.iam.gserviceaccount.com",
+  "client_id": "115181297932861748311",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/andtrinh%40delphina-services-239820.iam.gserviceaccount.com"
+}
